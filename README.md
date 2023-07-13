@@ -4,6 +4,7 @@
 
 - Python 3.x
 - OpenAI API Key
+- ffmpeg
 
 ## Installation
 
